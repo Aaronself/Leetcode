@@ -1,0 +1,91 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "longestCommonPrefix.Main",
+            "projectName": "Leetcode_98131523"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - xuhaoze",
+            "request": "launch",
+            "mainClass": "longestCommonPrefix.xuhaoze",
+            "projectName": "Leetcode_98131523"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - main",
+            "request": "launch",
+            "mainClass": "longestCommonPrefix.main",
+            "projectName": "Leetcode_98131523"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "Leetcode_98131523"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
+            "mainClass": "maxArea.Solution",
+            "projectName": "Leetcode_98131523"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
+            "mainClass": "maxArea.Solution",
+            "projectName": "VSCode_ffd8debe"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
+            "mainClass": "myAtoi.Solution",
+            "projectName": "VSCode_ffd8debe"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - a",
+            "request": "launch",
+            "mainClass": "leetcode.a",
+            "projectName": "VSCode_ffd8debe"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "VSCode_ffd8debe"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "VSCode_ffd8debe"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-test<VSCode_ffd8debe>",
+            "request": "launch",
+            "mainClass": "test.test",
+            "projectName": "VSCode_ffd8debe"
+        }
+    ]
+}
