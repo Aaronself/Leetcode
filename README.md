@@ -33,3 +33,4 @@
 
 - 本题集使用Java
 - leetcode账号绑定Github
+- 使用VSCode [leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode/blob/master/docs/README_zh-CN.md)插件学习
